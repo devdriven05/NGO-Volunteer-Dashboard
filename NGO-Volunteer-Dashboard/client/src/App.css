@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200..900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap') layer(base);
+
+@import 'tailwindcss';
+
+@theme {
+  --color-bright-background: #f4e9f3;
+  --color-bright-green: #0086d0;
+  --color-light-text: #959595;
+}
+
+/*
+  The default border color has changed to `currentColor` in Tailwind CSS v4,
+  so we've added these compatibility styles to make sure everything still
+  looks the same as it did with Tailwind CSS v3.
+
+  If we ever want to remove these styles, we need to add an explicit border
+  color utility to any element that depends on these defaults.
+*/
+@layer base {
+
+  *,
+  ::after,
+  ::before,
+  ::backdrop,
+  ::file-selector-button {
+    border-color: var(--color-gray-200, currentColor);
+  }
+}
+
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Inter', sans-serif;
+
+
+}
+
+.custom-quill-editor .ql-toolbar {
+  @apply rounded-t-lg;
+  border: 1px solid #e2e8f0;
+}
+
+.custom-quill-editor .ql-editor {
+  min-height: 400px;
+  max-height: 900px;
+  border: 2px solid transparent;
+}
+
+.custom-quill-editor .ql-editor::-webkit-scrollbar-thumb {
+  background-color: #7263f3;
+  border-radius: 6px;
+}
+
+.custom-quill-editor .ql-editor::-webkit-scrollbar-track {
+  background-color: #cbd5e0;
+}

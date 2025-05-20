@@ -134,9 +134,6 @@ UpdateProfile:
 ✅ The code posted so far is fully working.
 🚀 The project is still under development and can be further enhanced — for example, by adding PhonePe integration to enable users to donate directly to NGO projects.
 
-🚀 Like this project? Want the full version or custom features?
-I can develop it for you – reach out for pricing!
-📬 jvsaarathi@gmail.com
 
 ## Attribution
 This project was created by Jaladhanki Venkata Sai Aarathi. If you use or modify this project, please provide proper credit.

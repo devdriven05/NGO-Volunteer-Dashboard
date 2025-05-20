@@ -136,9 +136,14 @@ UpdateProfile:
 If you liked this project and are looking to collaborate, hire, or even offer an internship opportunity, feel free to reach out:
 📧 jvsaarathi@gmail.com
 
+## Attribution
+This project was created by Jaladhanki Venkata Sai Aarathi. If you use or modify this project, please provide proper credit.
+
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 
 

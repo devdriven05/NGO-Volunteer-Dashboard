@@ -138,6 +138,9 @@ UpdateProfile:
 ## Attribution
 This project was created by Jaladhanki Venkata Sai Aarathi. If you use or modify this project, please provide proper credit.
 
+## 🔧 Hire Me
+I'm open for freelance work or collaboration. Contact me at: jvsaarathi@gmail.com
+
 
 ## License
 

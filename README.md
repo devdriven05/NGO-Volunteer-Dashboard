@@ -9,15 +9,17 @@ NGO-Volunteer Dashboard is a platform where NGOs can post projects and hire volu
 NGO-Volunteer Dashboard – Project Setup
 📦 Server Setup:
 
-cd server
+```cd server
 npm i
 npm run dev
+```
 
 Client Setup:
 
-cd client
+```cd client
 npm i
 npm run dev
+```
 
 
 ⚠️ Environment Variables

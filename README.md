@@ -56,52 +56,49 @@ API_KEY=""
 API_SECRET=""
 ```
 
-Functionalities of NGO-Volunteer Dashboard
-🔐 Authentication
-Secure login and signup for NGOs and volunteers.
+# 🌍 NGO-Volunteer Dashboard
 
-Role-based access (NGO, Volunteer, Admin).
+---
 
-JWT & session-based authentication.
+## 🔐 Authentication
+- Secure login and signup for NGOs and Volunteers.
+- Role-based access (NGO, Volunteer, Admin).
+- JWT & session-based authentication.
 
-📌 NGO Features
-Post new volunteer projects (with title, description, category, location, and deadline).
+---
 
-View, edit, and delete posted projects.
+## 📌 NGO Features
+- Post new volunteer projects (with title, description, category, location, and deadline).
+- View, edit, and delete posted projects.
+- View applications submitted by volunteers for each project.
+- Accept or reject volunteer applications.
+- Manage NGO profile.
 
-View applications submitted by volunteers for each project.
+---
 
-Accept or reject volunteer applications.
+## 👤 Volunteer Features
+- Create and manage personal profiles (skills, experience, availability).
+- Browse and search NGO projects.
+- Apply for projects with a custom message.
+- View applied projects and their statuses.
 
-Manage NGO profile.
+---
 
-👤 Volunteer Features
-Create and manage personal profiles (skills, experience, availability).
+## 🛠️ Admin Features
+- Manage all NGO and volunteer accounts.
+- Remove inappropriate projects or users.
+- Monitor dashboard statistics and activity logs.
 
-Browse and search NGO projects.
+---
 
-Apply for projects with a custom message.
+## 🔔 Additional Features
+- Email/SMS notifications using Gmail SMTP and Twilio.
+- Responsive UI with a modern dashboard layout.
+- Upload images via Cloudinary.
+- Gemini API integration for suggestions/recommendations (e.g., matching volunteers to projects).
+- Password reset via email.
 
-View applied projects and their statuses.
-
-🛠️ Admin Features
-Manage all NGO and volunteer accounts.
-
-Remove inappropriate projects or users.
-
-Monitor dashboard statistics and activity logs.
-
-🔔 Additional Features
-Email/SMS notifications using Gmail SMTP and Twilio.
-
-Responsive UI with a modern dashboard layout.
-
-Upload images via Cloudinary.
-
-Gemini API integration for suggestions/recommendations (e.g., matching volunteers to projects).
-
-Password reset via email.
-
+---
 
 ScreenShots:
 HomePage:

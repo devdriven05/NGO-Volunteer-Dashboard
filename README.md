@@ -24,7 +24,7 @@ npm run dev
 Make sure to update the .env file in the server/ directory with your own API keys and credentials:
 
 
-MONGO_URI=""
+```MONGO_URI=""
 SESSION_SECRET=your_secure_secret
 FRONTEND_URL=http://localhost:5173
 PORT=4000
@@ -51,6 +51,7 @@ GEMINI_API_KEY=""
 CLOUD_NAME=""
 API_KEY=""
 API_SECRET=""
+```
 
 Functionalities of NGO-Volunteer Dashboard
 🔐 Authentication

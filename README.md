@@ -101,35 +101,63 @@ API_SECRET=""
 ---
 
 ScreenShots:
+
 HomePage:
+
 ![image](https://github.com/user-attachments/assets/b6cb5da8-4036-410d-8cb6-8bc784dd18f5)
 
-Authentication 
+---
+
+Authentication:
+
 ![image](https://github.com/user-attachments/assets/cbfeff19-3794-48d8-a685-17225dd64cbf)
 ![image](https://github.com/user-attachments/assets/964eb428-bee0-42cf-8471-d1cbcda21243)
 
+---
+
 Home:
+
 ![image](https://github.com/user-attachments/assets/3d69abeb-2b94-4443-abe7-5077013d88c5)
 
+---
+
 FindWork:
+
 ![image](https://github.com/user-attachments/assets/176c6ffe-3050-4dbf-9729-da45d39eb9bf)
 
+---
+
 ApplyJobs:
+
 ![image](https://github.com/user-attachments/assets/38ee07ea-e726-4da6-8ec5-eae960f8987a)
 
+---
+
 Post ajob:
+
 ![image](https://github.com/user-attachments/assets/af733d28-e8b3-4991-bc7d-1d5fdb45781f)
 
+---
+
 MyJobs:
+
 ![image](https://github.com/user-attachments/assets/a95bec15-6671-4aef-870a-e599339dcedb)
 
+---
+
 post A Project:
+
 ![image](https://github.com/user-attachments/assets/4c4d7d2c-b9d7-4234-b5d9-f895285f557c)
 ![image](https://github.com/user-attachments/assets/71facbe2-9989-4842-b922-bf255329c0c5)
 
+---
+
 UpdateProfile:
+
 ![image](https://github.com/user-attachments/assets/05fd1560-4a19-4141-9cb7-39edfe4595b1)
 ![image](https://github.com/user-attachments/assets/299868f2-c708-4bae-a63e-e5b8ef6b45e0)
+
+---
 
 🚧 Status
 ✅ The code posted so far is fully working.
